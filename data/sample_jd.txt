@@ -1,0 +1,14 @@
+Java Full Stack Developer
+
+Requirements:
+Java
+Spring Boot
+React
+SQL
+Git
+REST API
+
+Responsibilities:
+Develop web applications
+Build REST APIs
+Work with frontend and backend teams
